@@ -1,4 +1,4 @@
-/*CIS430 - Lab Assignment 1
+/*CIS530 - Lab Assignment 1
 Name: Dean Choi
 ID: 2690159
 Object: Creating a Relational Database Schema Using SQL and SQL Server*/
